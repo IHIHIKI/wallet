@@ -948,7 +948,7 @@
 
 "@nimiq/vue-components@https://github.com/nimiq/vue-components#matheo/build/wallet_tracking-consent":
   version "0.1.0"
-  resolved "https://github.com/nimiq/vue-components#92f72845edfa057f96bfed43173494b401fb990f"
+  resolved "https://github.com/nimiq/vue-components#e06e4033599500f6d597addd10633472c18a87e5"
   dependencies:
     "@nimiq/style" "^0.8.2"
     big-integer "^1.6.44"
